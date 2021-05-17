@@ -8,9 +8,6 @@
 <a target="_blank" href="https://www.instagram.com/_osnimelo/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a target="_blank" href="osni_meloads@outlook.com">
-  <img align="left" alt="Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/outlook.svg" />
-</a>
 <a target="_blank" href="https://www.facebook.com/osni.melo.9210/">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
