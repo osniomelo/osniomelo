@@ -1,4 +1,4 @@
-### Meu nome é Osni de Oliveira Melo, sou iniciante na área de programação. 👋
+### Meu nome é Osni de Oliveira Melo, sou iniciante na área de programação. Tenho interesse em aprender ReactJS e NodeJS.👋
 <a target="_blank" href="https://www.linkedin.com/in/osnimeloads/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
